@@ -9,7 +9,6 @@ More about .NET Core, Blazor and Angular
 
 ---
 ### 📢 Find me elsewhere
-<div stlye="display:flex; justify-content:space-around">
 <a href="https://twitter.com/EdinSahbaz">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
@@ -21,7 +20,6 @@ More about .NET Core, Blazor and Angular
   <a href="https://www.instagram.com/edin.sahbaz/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
-</div>
   
 <hr>
 
