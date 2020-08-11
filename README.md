@@ -1,4 +1,4 @@
-### Hi there 🎉🎈🎉🎈
+### Hi there 🙋‍♂️
 
 Here you'll find a small sample of the projects I've uploaded to GitHub. You can also browse all the projects I've found interesting by looking at what I've [starred](https://github.com/edinSahbaz?tab=stars). 
 
