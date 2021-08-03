@@ -24,6 +24,6 @@ More about .NET Core, Blazor and Angular
 <hr>
 
 ### 🚧 I build with...
-.NET, Vue.js, Node.js and Python.
+.NET, Vue.js and Node.js.
 
 </p>
