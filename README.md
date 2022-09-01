@@ -4,26 +4,17 @@ Here you'll find a small sample of the projects I've uploaded to GitHub. You can
 
 ---
 ### 💻 I’m currently learning
-More about .NET Core, Blazor and Angular
+More about .NET MAUI, React.js & Next.js
 
 
 ---
 ### 📢 Find me elsewhere
-<a href="https://twitter.com/EdinSahbaz">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>  
-
-  <a href="https://www.linkedin.com/in/edin-%C5%A1ahbaz-b10238192/">
+  <a href="https://www.linkedin.com/in/edinsahbaz/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.instagram.com/edin.sahbaz/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
-  
+  </a>  
 <hr>
 
 ### 🚧 I build with...
-.NET C#, Vue and Node.js.
+.NET C# (MAUI, Blazor & Xamarin.Forms), Vue and Node.js.
 
 </p>
