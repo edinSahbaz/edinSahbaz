@@ -4,7 +4,7 @@ Here you'll find a small sample of the projects I've uploaded to GitHub. You can
 
 ---
 ### 💻 I’m currently learning
-More about .NET MAUI, React.js & Next.js
+More about React.js & Next.js
 
 
 ---
