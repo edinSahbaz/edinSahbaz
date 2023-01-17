@@ -67,7 +67,11 @@ I'm a full-stack web and software developer building my version of the digital w
 
 ![Edin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edinSahbaz&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edinSahbaz&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edinSahbaz&" alt="edinSahbaz" /></p>
+
+
 #
+
 
 <details>
  <summary><h3>👨🏻‍💻 Edin's Coding Journey</h3></summary>
