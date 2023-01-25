@@ -2,7 +2,7 @@
 
 **`Software and Web Developer`**
 
-I'm a full-stack web and software developer building my version of the digital world one step at a time. All coding projects are made from the ground up, from planning and designing to solving real-life problems with code. Most of my projects are private, but here you can find a small sample of my public repositories.
+I'm a full-stack web and software developer building my version of the digital world one step at a time. All coding projects are made from the ground up, from planning and designing to solving real-life problems with code. Most of my projects are private, but here you can find a small sample of my public repositories which primarily consists of older projects I created while learning new technologies.
 
    <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
