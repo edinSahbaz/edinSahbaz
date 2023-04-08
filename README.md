@@ -5,7 +5,7 @@
 I'm a full-stack web and software developer building my version of the digital world one step at a time. All coding projects are made from the ground up, from planning and designing to solving real-life problems with code. Most of my projects are private, but here you can find a small sample of my public repositories which primarily consists of older projects I created while learning new technologies.
 
    <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/edinSahbaz?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/edinSahbaz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
