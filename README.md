@@ -15,6 +15,7 @@ I'm a full-stack web and software developer building my version of the digital w
 
 #### Languages
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,6 +58,7 @@ I'm a full-stack web and software developer building my version of the digital w
 
 #### Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 #
@@ -64,8 +66,8 @@ I'm a full-stack web and software developer building my version of the digital w
 ### 📊 Stats
 
 ![Edin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edinSahbaz&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edinSahbaz&layout=compact&theme=react&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edinSahbaz&theme=react" alt="edinSahbaz" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edinSahbaz&layout=compact&theme=react&langs_count=8)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=edinSahbaz&theme=react)
 
 #
 
