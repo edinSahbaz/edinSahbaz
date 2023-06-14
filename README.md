@@ -67,9 +67,12 @@ I'm a full-stack web and software developer building my version of the digital w
 
 ### 📊 Stats
 
-![Edin's GitHub stats](https://github-readme-stats-edinsahbaz.vercel.app/api?username=edinSahbaz&show_icons=true&theme=react&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-edinsahbaz.vercel.app/api/top-langs/?username=edinSahbaz&layout=compact&theme=react&count_private=true?langs_count=8)
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=edinSahbaz&theme=react)
+<div>
+  <img height="140" src="https://github-readme-stats-edinsahbaz.vercel.app/api?username=edinSahbaz&show_icons=true&theme=react&count_private=true&include_all_commits=true"/>
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=edinSahbaz&theme=react"/>
+  <img width="255" src="https://github-readme-stats-edinsahbaz.vercel.app/api/top-langs/?username=edinSahbaz&layout=compact&theme=react&count_private=true?langs_count=10&hide=html,css"/>
+</div>
+
 #
 
 <details>
