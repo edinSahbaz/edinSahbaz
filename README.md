@@ -2,7 +2,7 @@
 
 **`Software and Web Developer`**
 
-I'm a full-stack web and software developer building my version of the digital world one step at a time. All coding projects are made from the ground up, from planning and designing to solving real-life problems with code. Most of my projects are private, but here you can find a small sample of my public repositories which primarily consists of older projects I created while learning new technologies.
+I'm a full-stack web and software developer building my version of the digital world one step at a time. All coding projects are made from the ground up, from planning and designing to solving real-life problems with code. Most of my projects are private, but here you can find a small sample of my public repositories, primarily of older projects I created while learning new technologies.
 
    <p align="left">
       <a href="https://github.com/edinSahbaz?tab=followers">
@@ -18,17 +18,19 @@ I'm a full-stack web and software developer building my version of the digital w
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Frameworks, Platforms and Libraries
+#### Frameworks, Platforms, and Libraries
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -77,5 +79,5 @@ I'm a full-stack web and software developer building my version of the digital w
 
 <details>
  <summary><h3>👨🏻‍💻 Edin's Coding Journey</h3></summary>
-  I started my coding journey as a young and naive high school student with a love for mathematics and problem-solving and a passion for learning everything I could about this programming world - code, Unix, Linux, theory... Teaching myself C++ development with a dream to build my app soon got overshadowed by my desire to excel in C#. It was and still is the programming language closest to my heart, but my curiosity spread far from that. Soon I was faced with the challenges of web development, my first "job" as a programming tutor, where I started exploring Node.js and Vue. Being a language/technology agnostic gave me a wide array of skills with different tools, languages, and platforms, enabling me to work on various freelance projects. I also participated as a coding assignments creator for IT Challenge, in beginnings local but then the biggest IT competition in Bosnia and Herzegovina for high school students. After that, my programming life continued with vast amounts of learning to keep my knowledge up to date. Work on side projects and some freelance work further amplified that. I continued to explore new languages and technologies such as Python, Java, Blazor, React.js, Next.js, and Xamarin.Forms and adopt the newest ones, such as .NET MAUI. I developed a strong interest in the field of architecture, particularly in Clean Architecture. It has captivated me with its focus on separating concerns, enhancing maintainability, and
+  I started my coding journey as a young and naive high school student with a love for mathematics and problem-solving and a passion for learning everything I could about this programming world - code, Unix, Linux, theory... Teaching myself C++ development with a dream to build my app soon got overshadowed by my desire to excel in C#. It was and still is the programming language closest to my heart, but my curiosity spread far from that. Soon I was faced with the challenges of web development, my first "job" as a programming tutor, where I started exploring Node.js and Vue. Being a language/technology agnostic gave me various skills with different tools, languages, and platforms, enabling me to work on various freelance projects. I also participated as a coding assignments creator for IT Challenge, in beginnings local but then the biggest IT competition in Bosnia and Herzegovina for high school students. After that, my programming life continued with vast amounts of learning to keep my knowledge up to date. Work on side projects and some freelance work further amplified that. I continued to explore new languages and technologies such as Python, Java, Blazor, React.js, Next.js, and Xamarin.Forms and adopt the newest ones, such as .NET MAUI. I developed a strong interest in architecture, particularly in Clean Architecture. It has captivated me with its focus on separating concerns, enhancing maintainability, and
 promoting scalable code organization. Exploring Clean Architecture has been an exciting journey, and I look forward to delving deeper into its principles and applications.
